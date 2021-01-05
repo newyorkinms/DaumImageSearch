@@ -7,7 +7,9 @@ target 'DaumImageSearch' do
   pod "RxSwift" , "~> 5.1.1"
   pod "RxCocoa" , "~> 5.1.1"
   pod "RxAlamofire" , "~> 5.7.1"
+
   pod 'Alamofire', "~> 5.2"
+  pod 'SDWebImage', '~> 5.0'
   # Pods for DaumImageSearch
 
   target 'DaumImageSearchTests' do
